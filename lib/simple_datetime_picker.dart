@@ -4,13 +4,13 @@ import 'dart:async';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
-import 'package:custom_datetime_picker/src/datetime_picker_theme.dart';
-import 'package:custom_datetime_picker/src/date_model.dart';
-import 'package:custom_datetime_picker/src/i18n_model.dart';
+import 'package:simple_datetime_picker/src/datetime_picker_theme.dart';
+import 'package:simple_datetime_picker/src/date_model.dart';
+import 'package:simple_datetime_picker/src/i18n_model.dart';
 
-export 'package:custom_datetime_picker/src/datetime_picker_theme.dart';
-export 'package:custom_datetime_picker/src/date_model.dart';
-export 'package:custom_datetime_picker/src/i18n_model.dart';
+export 'package:simple_datetime_picker/src/datetime_picker_theme.dart';
+export 'package:simple_datetime_picker/src/date_model.dart';
+export 'package:simple_datetime_picker/src/i18n_model.dart';
 
 typedef DateChangedCallback(DateTime time);
 typedef DateCancelledCallback();
