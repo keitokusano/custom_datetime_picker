@@ -1,6 +1,6 @@
 # Custom Datetime Picker
 
-[(Pub) custom_datetime_picker](https://pub.dev/packages/custom_datetime_picker)
+[(Pub) simple_datetime_picker](https://pub.dev/packages/simple_datetime_picker)
 
 you can choose date / time / date&time in multiple languages:
 

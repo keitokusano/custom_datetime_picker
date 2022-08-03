@@ -1,6 +1,6 @@
 // import 'package:flutter_test/flutter_test.dart';
 //
-// import 'package:custom_datetime_picker/custom_datetime_picker.dart';
+// import 'package:custom_datetime_picker/simple_datetime_picker.dart';
 //
 // void main() {
 //   test('adds one to input values', () {
