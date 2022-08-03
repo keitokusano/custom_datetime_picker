@@ -1,4 +1,4 @@
-# Custom Datetime Picker
+# Simple Datetime Picker
 
 [(Pub) simple_datetime_picker](https://pub.dev/packages/simple_datetime_picker)
 
